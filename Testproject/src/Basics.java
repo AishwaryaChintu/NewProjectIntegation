@@ -6,8 +6,8 @@ public class Basics {
 System.out.println("Eclipse to Jenkins Integration");
 System.out.println("leo");
 System.out.println("happyweekend");
-System.out.println("sunday");
-System.out.println("Welcome to Digital Automation");
+
+
 
 		
 	}
